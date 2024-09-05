@@ -1,6 +1,5 @@
 import os
 import json
-import hashlib
 class user:
     def __init__(self,username,password,role):
         self.username=username
